@@ -1,0 +1,17 @@
+# Node
+node_modules/
+dist/
+build/
+*.log
+*.tsbuildinfo
+.env
+
+# Swift
+.build/
+DerivedData/
+.swiftpm/xcode/package.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# OS
+.DS_Store
